@@ -1,0 +1,13 @@
+[default]
+[web]
+ ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_pass=vagrant
+[db]
+$ ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_pass=vagrant
+[web]
+ ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_pass=vagrant
+[db]
+$ ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_pass=vagrant
+[web]
+ ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_pass=vagrant
+[db]
+ ansible_connection=ssh ansible_ssh_user=vagrant ansible_ssh_pass=vagrant

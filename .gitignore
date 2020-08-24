@@ -1,0 +1,4 @@
+vagrantfile.txt
+.vagrant/
+terraform.tfstate
+.terraform/
